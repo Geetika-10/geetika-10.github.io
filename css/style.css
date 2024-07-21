@@ -73,10 +73,11 @@ section h2 {
     margin-bottom: 1rem;
 }
 
-section img.profile-photo {
+section img{
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    display: block;
     margin: 1rem auto;
 }
 
