@@ -69,13 +69,14 @@ section {
 }
 
 section h2 {
-    color: #90f362;
+    color: #FF6F61;
     margin-bottom: 1rem;
 }
 
 section img {
-    max-width: 150px;
-    border-radius: 80%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
     display: block;
     margin: 1rem auto;
 }
@@ -106,7 +107,7 @@ footer {
 
 /* Link styles */
 a {
-    color: #90f362;
+    color: #FF6F61;
     text-decoration: none;
 }
 
