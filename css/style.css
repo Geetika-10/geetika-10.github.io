@@ -18,7 +18,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #2C3E50;
+    background-color: #071c31;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -69,13 +69,13 @@ section {
 }
 
 section h2 {
-    color: #F39C12;
+    color: #90f362;
     margin-bottom: 1rem;
 }
 
 section img {
     max-width: 150px;
-    border-radius: 50%;
+    border-radius: 80%;
     display: block;
     margin: 1rem auto;
 }
@@ -95,7 +95,7 @@ section ul li {
 
 /* Footer styles */
 footer {
-    background-color: #2C3E50;
+    background-color: #071c31;
     color: white;
     text-align: center;
     padding: 1rem 0;
@@ -106,7 +106,7 @@ footer {
 
 /* Link styles */
 a {
-    color: #F39C12;
+    color: #90f362;
     text-decoration: none;
 }
 
