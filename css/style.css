@@ -68,8 +68,9 @@ section {
     margin-bottom: 2rem;
 }
 
+
 section h2 {
-    color: #ebb31f;
+    color: #fabc11;
     margin-bottom: 1rem;
 }
 
@@ -107,7 +108,7 @@ footer {
 
 /* Link styles */
 a {
-    color: #ebb31f;
+    color: #fabc11;
     text-decoration: none;
 }
 
